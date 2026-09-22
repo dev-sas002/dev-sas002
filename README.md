@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Today's date is: 22nd September, 2026
+
 <!--
 **dev-sas002/dev-sas002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
