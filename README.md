@@ -1,5 +1,3 @@
-### Hi, I'm Devsas
-
 I build backend services and AI features, mostly in Python and TypeScript, with some Ruby on Rails.
 
 Lately most of my work is retrieval and agent pipelines: answers that cite where they came from, and a human approval step before anything changes real data.
